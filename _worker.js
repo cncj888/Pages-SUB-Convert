@@ -11,6 +11,11 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
 https://hysteria.cncj888.workers.dev
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
+https://dl.game.rezashopparivate.sbs/sub
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt
+https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged
+https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt
 `
 
 //请将机场订阅链接填入上方
