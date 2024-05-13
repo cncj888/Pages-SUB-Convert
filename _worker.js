@@ -13,6 +13,7 @@ let MainData = `
 vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93https%3A%2F%2Ft.me%2FOneZyhCN%E8%8E%B7%E5%8F%96%E6%9B%B4%E5%A4%9A%E8%B5%84%E6%BA%90
 https://sub.xf.free.hr/auto
 https://hy2sub.pages.dev
+https://hysteria.cncj888.workers.dev
 `
 
 //请将机场订阅链接填入上方
